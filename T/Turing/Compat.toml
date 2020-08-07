@@ -25,7 +25,7 @@ MCMCChain = "0.1.1-0"
 AbstractMCMC = "0.5.2-0.5"
 
 ["0.10-0"]
-Distributions = "0.22-0.23"
+Distributions = "0.22-0.23.2"
 DocStringExtensions = "0.8"
 EllipticalSliceSampling = "0.2"
 ProgressLogging = "0.1"
@@ -211,7 +211,7 @@ DynamicPPL = "0.4"
 ["0.9.1"]
 AbstractMCMC = "0.5.2-0.5"
 Bijectors = "0.6.4-0.6"
-Distributions = "0.22-0.23"
+Distributions = "0.22-0.23.2"
 DistributionsAD = "0.4.8-0.4"
 DocStringExtensions = "0.8"
 DynamicPPL = "0.5"
